@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eaa3406ea8eb24332992124ee480a965
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5333
+  packageName: Dish&Tray
+  packageVersion: 1.0
+  assetPath: Assets/Dish&Tray/DishWood/Materials/DishWood_D.mat
+  uploadId: 27133

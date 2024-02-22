@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d381757ae74a4ca990f9d54f5e8c05c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5333
+  packageName: Dish&Tray
+  packageVersion: 1.0
+  assetPath: Assets/Dish&Tray/DishA/Materials/DishA_D.mat
+  uploadId: 27133
