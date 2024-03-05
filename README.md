@@ -1,3 +1,5 @@
+Youtube Link: https://youtu.be/vInaZMymweA
+
 🔪🍌 Excited to share my latest project on Unity: a realistic fruit and vegetable cutting mechanism! 🍎🥕
 
 Taking inspiration from real-world chopping experiences, I delved into Unity to craft a dynamic and immersive cutting mechanism. Here's a glimpse of what I achieved:
