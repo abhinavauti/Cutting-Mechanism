@@ -1,4 +1,4 @@
-Youtube Link: https://youtu.be/vInaZMymweA
+Video Demo: https://youtu.be/vInaZMymweA
 
 🔪🍌 Excited to share my latest project on Unity: a realistic fruit and vegetable cutting mechanism! 🍎🥕
 
